@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Khanyiso Tshwaku",
+            "title": "Former SA U19 bowler Mondli Khumalo has third brain operation after UK assault",
+            "description": "Mondli Khumalo's agent Rob Humphries said the young cricketer underwent a third operation that's seen his recovery prospects improve significantly.",
+            "url": "https://www.news24.com/sport/Cricket/former-sa-u19-bowler-mondli-khumalo-has-third-brain-operation-after-uk-assault-20220602",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3426/e5df56636dae4c319247b12bb1e15c06.jpg",
+            "publishedAt": "2022-06-02T22:45:31+00:00",
+            "content": "<ul><li>Mondli Khumalo has undergone a third operation.</li><li>Khumalo was assaulted on Sunday morning outside a pub in the United Kingdom and was hospitalised.</li><li>Khumalo is a former SA U19 bo… [+3521 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Lord's pauses to pay emotional tribute to Shane Warne during England v New Zealand Test match",
+            "description": "England and New Zealand cricket fans unite at Lord's to pay an emotional tribute to Australian cricket legend Shane Warne. Watch the video.",
+            "url": "http://www.abc.net.au/news/2022-06-03/lords-pays-tribute-to-shane-warne-during-england-nz-test/101123134",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9ee244ba9b111107d0f955fda55e8952?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=127&width=862&height=485",
+            "publishedAt": "2022-06-02T22:40:20Z",
+            "content": "English cricket fans have paid an emotional tribute to Australian cricket legend Shane Warne during the team's test match clash with New Zealand at Lord's.\r\nKey points:\r\n<ul><li>Players and fans at L… [+5974 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "Shane Warne memorial - watch & follow updates",
+            "description": "Watch live coverage and follow text updates and tributes from the state memorial for Australian cricket legend Shane Warne at the Melbourne Cricket Ground.",
+            "url": "http://www.bbc.co.uk/sport/live/cricket/60916236",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+            "publishedAt": "2022-03-30T08:22:26.498888Z",
+            "content": "Former England bowler and BBC cricket presenter Isa Guha, who became a colleague of Warne's in the commentary box: \"It has been a strange few weeks - a lot of shock and then we did our own tribute at… [+396 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
