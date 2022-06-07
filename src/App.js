@@ -9,7 +9,7 @@ const App = ()=> {
  const pageSize=15;
  const apiKey=process.env.REACT_APP_NEWS_API;
 
-  const [progress, setProgress] = useState(0);
+  // const [progress, setProgress] = useState(0);
   
   
     return (
@@ -19,7 +19,7 @@ const App = ()=> {
           <LoadingBar
           height={3}
         color='#f11946'
-        progress={progress}        
+        // progress={progress}        
       />
           <Routes>
             <Route exact path="/"
