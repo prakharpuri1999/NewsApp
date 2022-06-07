@@ -1,1 +1,0 @@
-web: npm cache clean -f && npm install && npm run start 
